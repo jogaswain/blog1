@@ -1,0 +1,27 @@
+body{
+background:yellow;
+}
+.content{
+width:60%;
+float:left;
+background:yellow;
+}
+.sidebar{
+width:40%;
+float:right;
+}
+h1{
+text-align:center;
+border-bottom:1px solid #bbb;
+padding-bottom:10px;
+}
+#date{
+
+}
+a{
+text-decorator:none;
+}
+input[type=text]{
+background:blue;
+color:white;
+}
